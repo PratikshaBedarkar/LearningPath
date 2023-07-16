@@ -1,0 +1,18 @@
+.lesson-item{
+    list-style-type: none;
+    display: block;
+    border: 1px solid black;
+    margin: 1%
+}
+
+.lesson-item a{
+    display: block;
+    padding: 2% ;
+    text-decoration: none;
+    color: black;
+
+}
+
+.lesson-item a:hover{
+    box-shadow: 0px 2px 6px rgb(10, 10, 10);
+}
